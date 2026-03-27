@@ -19,4 +19,4 @@ An automated testing engine developed in Java to streamline the validation of al
 * **Session Management:** Uses a "Casino" metaphor to manage virtual currency, teaching core concepts of transaction logic and state persistence.
 
 * ## 💡 Why I built this
-]During my first year as a Computer Engineering student at ISCTE (where I was recognized as ISTA Top Talent), I wanted to go beyond just solving exercises.  I developed this tool to automate my own workflow, ensuring that every edge case in my algorithms was covered before submission.
+During my first year as a Computer Engineering student at ISCTE (where I was recognized as ISTA Top Talent), I wanted to go beyond just solving exercises.  I developed this tool to automate my own workflow, ensuring that every edge case in my algorithms was covered before submission.
